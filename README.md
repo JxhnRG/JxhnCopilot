@@ -9,15 +9,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JxhnRG&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph" alt="languages logo"  />
 </div>
 
-###
+### 
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2>Tecnologías conocidas👨🏻‍💻</h2>
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,java,py,git,github,docker,vscode" />
   </a>
   </p
+
 
  <div align="center">
   <a href="https://www.instagram.com/jxhnrg/" target="_blank">
